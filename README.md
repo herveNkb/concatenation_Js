@@ -1,4 +1,4 @@
-# Énoncé des exercices
+# Énoncés des exercices
 
 
 ## exo_1: afficher une jolie phrase à notre utilisateur, en transformant ses informations de sorte que nous lui donnions un petit sourire.
