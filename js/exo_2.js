@@ -1,3 +1,5 @@
+//Calculateur d' Indice de Masse Corporelle (I.M.C).
+
 //Demande des renseignements à l'utilisateur
 let poids = prompt(`Quel est votre poids (en kg), espèce de bouboule ?`);
 let taille = prompt(`Maintenant, quelle est ta taille (en cm) , nabot ?`);

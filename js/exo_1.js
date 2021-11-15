@@ -1,3 +1,5 @@
+//Création d'une alerte en se servant des renseignements demandé à l'utilisateur.
+
 function abracadabra() {
   let firstName = prompt(`Quel est ton prénom ?`);
   let lastName = prompt(`Cette fois, quel est ton nom de famille ?`);
