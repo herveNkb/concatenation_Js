@@ -1,4 +1,4 @@
-# Énoncés des exercices
+# Deux petits projets sur la _concaténation_.
 
 
 ## exo_1: afficher une jolie phrase à notre utilisateur, en transformant ses informations de sorte que nous lui donnions un petit sourire.
