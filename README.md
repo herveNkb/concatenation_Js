@@ -1,7 +1,7 @@
 # Deux petits projets sur la _concaténation_.
 
 
-## exo_1: afficher une jolie phrase à notre utilisateur, en transformant ses informations de sorte que nous lui donnions un petit sourire.
+## Projet 1: afficher une jolie phrase à notre utilisateur, en transformant ses informations de sorte que nous lui donnions un petit sourire.
 
 1. Créer une fonction abracadabra qui ne contiendra aucun paramètre.
 
@@ -13,7 +13,7 @@
 
 
 
-## exo_2: un calculateur d'IMC
+## Projet 2: un calculateur d'IMC
 
 1. Nous allons récupérer deux valeurs grâce à notre utilisateur : poids et taille, qui seront respectivement associées au poids et à la taille de notre utilisateur. Vous pouvez demander à vos utilisateurs leur taille en centimètres ou en mètres. Dans tous les cas, vous devrez convertir cette taille en mètres pour calculer son IMC.
 
